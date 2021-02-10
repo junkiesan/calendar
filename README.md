@@ -1,24 +1,17 @@
-# README
+# Calendar
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to this rails application helping you to make an appointment with me. If you want to hire a dev, just make an appointment ! 
 
-Things you may want to cover:
+Stack:
 
-* Ruby version
+* Rails
 
-* System dependencies
+* Devise
 
-* Configuration
+* Sidekiq
 
-* Database creation
+* PostgreSQL
 
-* Database initialization
+* Foreman
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Friendly_url
