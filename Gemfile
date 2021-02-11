@@ -27,6 +27,8 @@ gem 'friendly_id', '~> 5.4.0'
 
 gem "simple_calendar", "~> 2.4"
 
+gem 'trix'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

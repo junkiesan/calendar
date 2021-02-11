@@ -17,3 +17,5 @@ Stack:
 * Friendly_url
 
 * Simple_calendar
+
+* Trix
