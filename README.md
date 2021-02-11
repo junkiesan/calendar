@@ -15,3 +15,5 @@ Stack:
 * Foreman
 
 * Friendly_url
+
+* Simple_calendar
