@@ -12,9 +12,12 @@
  *
  *= require_tree .
  *= require_self
+ *= require trix
+ *= require simple_calendar
  */
 @import "navbar";
 @import "bootstrap/scss/bootstrap";
+@import "simple_calendar";
 
 .box {
   border: 1px solid black;
